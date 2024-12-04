@@ -1,0 +1,400 @@
+Temperature (),Minimum Humidity,Maximum Humidity,Minimum Soil Moisture,Maximum Soil Moisture,Disease/Pest
+17,0.8,1,0.89,0.93,Rice Blast Disease
+18,0.8,1,0.89,0.93,Rice Blast Disease
+19,0.8,1,0.89,0.93,Rice Blast Disease
+20,0.8,1,0.89,0.93,Rice Blast Disease
+21,0.8,1,0.89,0.93,Rice Blast Disease
+22,0.8,1,0.89,0.93,Rice Blast Disease
+23,0.8,1,0.89,0.93,Rice Blast Disease
+24,0.8,1,0.89,0.93,Rice Blast Disease
+25,0.8,1,0.89,0.93,Rice Blast Disease
+26,0.8,1,0.89,0.93,Rice Blast Disease
+27,0.8,1,0.89,0.93,Rice Blast Disease
+28,0.8,1,0.89,0.93,Rice Blast Disease
+26,0.7,1,0.7,0.89,Xanthomonas Oryzae
+27,0.7,1,0.7,0.89,Xanthomonas Oryzae
+28,0.7,1,0.7,0.89,Xanthomonas Oryzae
+29,0.7,1,0.7,0.89,Xanthomonas Oryzae
+30,0.7,1,0.7,0.89,Xanthomonas Oryzae
+30,0.5,0.7,0.25,0.42,Spikelet degeneration
+33,0.5,0.7,0.25,0.42,Spikelet degeneration
+25,0.7,0.89,0.6,0.75,Bacterial leaf blight
+26,0.7,0.89,0.6,0.75,Bacterial leaf blight
+27,0.7,0.89,0.6,0.75,Bacterial leaf blight
+28,0.7,0.89,0.6,0.75,Bacterial leaf blight
+29,0.7,0.89,0.6,0.75,Bacterial leaf blight
+30,0.7,0.89,0.6,0.75,Bacterial leaf blight
+31,0.7,0.89,0.6,0.75,Bacterial leaf blight
+32,0.7,0.89,0.6,0.75,Bacterial leaf blight
+33,0.7,0.89,0.6,0.75,Bacterial leaf blight
+34,0.7,0.89,0.6,0.75,Bacterial leaf blight
+40,0.5,0.7,0.45,0.54,Grain discoloration
+28,0.85,1,0.65,0.8,Sheath blight
+29,0.85,1,0.65,0.8,Sheath blight
+30,0.85,1,0.65,0.8,Sheath blight
+31,0.85,1,0.65,0.8,Sheath blight
+32,0.85,1,0.65,0.8,Sheath blight
+30,0.95,1,0.8,1,Bacterial panicle blight (BPB)
+31,0.95,1,0.8,1,Bacterial panicle blight (BPB)
+32,0.95,1,0.8,1,Bacterial panicle blight (BPB)
+33,0.95,1,0.8,1,Bacterial panicle blight (BPB)
+34,0.95,1,0.8,1,Bacterial panicle blight (BPB)
+35,0.95,1,0.8,1,Bacterial panicle blight (BPB)
+25,0.95,0.95,0.25,0.4,False Smut
+26,0.95,0.95,0.25,0.4,False Smut
+27,0.95,0.95,0.25,0.4,False Smut
+28,0.95,0.95,0.25,0.4,False Smut
+29,0.95,0.95,0.25,0.4,False Smut
+30,0.95,0.95,0.25,0.4,False Smut
+31,0.95,0.95,0.25,0.4,False Smut
+32,0.95,0.95,0.25,0.4,False Smut
+16,0.86,1,0.69,0.9,Brown Spot
+17,0.86,1,0.69,0.9,Brown Spot
+18,0.86,1,0.69,0.9,Brown Spot
+19,0.86,1,0.69,0.9,Brown Spot
+20,0.86,1,0.69,0.9,Brown Spot
+21,0.86,1,0.69,0.9,Brown Spot
+22,0.86,1,0.69,0.9,Brown Spot
+23,0.86,1,0.69,0.9,Brown Spot
+24,0.86,1,0.69,0.9,Brown Spot
+25,0.86,1,0.69,0.9,Brown Spot
+26,0.86,1,0.69,0.9,Brown Spot
+27,0.86,1,0.69,0.9,Brown Spot
+28,0.86,1,0.69,0.9,Brown Spot
+29,0.86,1,0.69,0.9,Brown Spot
+30,0.86,1,0.69,0.9,Brown Spot
+31,0.86,1,0.69,0.9,Brown Spot
+32,0.86,1,0.69,0.9,Brown Spot
+33,0.86,1,0.69,0.9,Brown Spot
+34,0.86,1,0.69,0.9,Brown Spot
+35,0.86,1,0.69,0.9,Brown Spot
+36,0.86,1,0.69,0.9,Brown Spot
+30,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+31,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+32,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+33,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+34,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+35,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+36,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+10,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+11,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+12,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+13,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+14,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+15,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+16,0.6,0.85,0.22,0.39,Sterility in Rice Plants
+28,0.9,0.9,0.78,0.92,Tungro
+29,0.9,0.9,0.78,0.92,Tungro
+30,0.9,0.9,0.78,0.92,Tungro
+31,0.9,0.9,0.78,0.92,Tungro
+32,0.9,0.9,0.78,0.92,Tungro
+28,0.9,0.9,0.75,0.9,Sheath Rot
+29,0.9,0.9,0.75,0.9,Sheath Rot
+30,0.9,0.9,0.75,0.9,Sheath Rot
+31,0.9,0.9,0.75,0.9,Sheath Rot
+32,0.9,0.9,0.75,0.9,Sheath Rot
+30,0.85,0.85,0.68,0.73,Stem Rot
+31,0.85,0.85,0.68,0.73,Stem Rot
+32,0.85,0.85,0.68,0.73,Stem Rot
+13,0.85,1,0.88,0.95,Cold Injury
+14,0.85,1,0.88,0.95,Cold Injury
+15,0.85,1,0.88,0.95,Cold Injury
+16,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+17,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+18,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+19,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+20,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+21,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+22,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+23,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+24,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+25,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+26,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+27,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+28,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+29,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+30,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+31,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+32,0.75,0.75,0.37,0.48,Yellow Dwarf Virus (YDV)
+27,0.1,0.45,0.3,0.4,Bakanae Disease
+28,0.1,0.45,0.3,0.4,Bakanae Disease
+29,0.1,0.45,0.3,0.4,Bakanae Disease
+30,0.1,0.45,0.3,0.4,Bakanae Disease
+31,0.1,0.45,0.3,0.4,Bakanae Disease
+32,0.1,0.45,0.3,0.4,Bakanae Disease
+33,0.1,0.45,0.3,0.4,Bakanae Disease
+34,0.1,0.45,0.3,0.4,Bakanae Disease
+35,0.1,0.45,0.3,0.4,Bakanae Disease
+30,0.92,1,0.32,0.42,Leaf Scald
+31,0.92,1,0.32,0.42,Leaf Scald
+32,0.92,1,0.32,0.42,Leaf Scald
+33,0.92,1,0.32,0.42,Leaf Scald
+34,0.92,1,0.32,0.42,Leaf Scald
+35,0.92,1,0.32,0.42,Leaf Scald
+36,0.92,1,0.32,0.42,Leaf Scald
+37,0.92,1,0.32,0.42,Leaf Scald
+38,0.92,1,0.32,0.42,Leaf Scald
+20,0.8,1,0.8,0.88,Stalked?eyed flies
+21,0.8,1,0.8,0.88,Stalked?eyed flies
+22,0.8,1,0.8,0.88,Stalked?eyed flies
+23,0.8,1,0.8,0.88,Stalked?eyed flies
+24,0.8,1,0.8,0.88,Stalked?eyed flies
+25,0.8,1,0.8,0.88,Stalked?eyed flies
+26,0.8,1,0.8,0.88,Stalked?eyed flies
+27,0.8,1,0.8,0.88,Stalked?eyed flies
+28,0.8,1,0.8,0.88,Stalked?eyed flies
+29,0.8,1,0.8,0.88,Stalked?eyed flies
+30,0.8,1,0.8,0.88,Stalked?eyed flies
+24,0.75,0.92,0.58,0.7,Rice hispa
+25,0.75,0.92,0.58,0.7,Rice hispa
+26,0.75,0.92,0.58,0.7,Rice hispa
+27,0.75,0.92,0.58,0.7,Rice hispa
+28,0.75,0.92,0.58,0.7,Rice hispa
+29,0.75,0.92,0.58,0.7,Rice hispa
+30,0.75,0.92,0.58,0.7,Rice hispa
+31,0.75,0.92,0.58,0.7,"Rice hispa,"
+32,0.75,0.92,0.58,0.7,Rice hispa
+33,0.75,0.92,0.58,0.7,Rice hispa
+34,0.75,0.92,0.58,0.7,Rice hispa
+20,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+21,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+22,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+23,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+24,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+25,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+26,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+27,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+28,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+29,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+30,0.6,0.8,0.75,0.9,Froghopper or Spittlebugs
+18,0.8,1,0.4,0.6,Udbatta disease
+19,0.8,1,0.4,0.6,Udbatta disease
+20,0.8,1,0.4,0.6,Udbatta disease
+21,0.8,1,0.4,0.6,Udbatta disease
+22,0.8,1,0.4,0.6,Udbatta disease
+23,0.8,1,0.4,0.6,Udbatta disease
+24,0.8,1,0.4,0.6,Udbatta disease
+25,0.8,1,0.4,0.6,Udbatta disease
+26,0.8,1,0.4,0.6,Udbatta disease
+27,0.8,1,0.4,0.6,Udbatta disease
+28,0.8,1,0.4,0.6,Udbatta disease
+29,0.8,1,0.4,0.6,Udbatta disease
+30,0.8,1,0.4,0.6,Udbatta disease
+29,0.85,0.85,0.7,0.8,Whorl Maggot
+30,0.85,0.85,0.7,0.8,Whorl Maggot
+31,0.85,0.85,0.7,0.8,Whorl Maggot
+32,0.85,0.85,0.7,0.8,Whorl Maggot
+33,0.85,0.85,0.7,0.8,Whorl Maggot
+25,0.8,0.8,0.5,0.63,Leaffolder
+26,0.8,0.8,0.5,0.63,Leaffolder
+27,0.8,0.8,0.5,0.63,Leaffolder
+28,0.8,0.8,0.5,0.63,Leaffolder
+11,0.8,0.8,0.5,0.63,Leaffolder
+12,0.85,0.85,0.7,0.8,Armyworm
+13,0.85,0.85,0.7,0.8,Armyworm
+14,0.85,0.85,0.7,0.8,Armyworm
+28,0.85,0.85,0.7,0.8,Armyworm
+29,0.85,0.85,0.7,0.8,Armyworm
+30,0.85,0.85,0.7,0.8,Armyworm
+30,0.8,0.8,0.59,0.59,Green leafhopper
+30,0.5,0.8,0.71,0.83,Stink Bug
+25,0.6,0.8,0.41,0.58,Stem Borer
+26,0.6,0.8,0.41,0.58,Stem Borer
+27,0.6,0.8,0.41,0.58,Stem Borer
+28,0.6,0.8,0.41,0.58,Stem Borer
+29,0.6,0.8,0.41,0.58,Stem Borer
+30,0.6,0.8,0.41,0.58,Stem Borer
+29,0.6,0.8,0.41,0.58,Stem Borer
+30,0.6,0.8,0.41,0.58,Stem Borer
+25,0.9,0.9,0.4,0.6,Black Bug
+26,0.9,0.9,0.4,0.6,Black Bug
+27,0.9,0.9,0.4,0.6,Black Bug
+28,0.9,0.9,0.4,0.6,Black Bug
+29,0.9,0.9,0.4,0.6,Black Bug
+30,0.9,0.9,0.4,0.6,Black Bug
+29,0.9,0.9,0.4,0.6,Black Bug
+30,0.9,0.9,0.4,0.6,Black Bug
+20,0.85,0.85,0.8,1,Septoria Tritici Blotch
+21,0.85,0.85,0.8,1,Septoria Tritici Blotch
+22,0.85,0.85,0.8,1,Septoria Tritici Blotch
+23,0.85,0.85,0.8,1,Septoria Tritici Blotch
+24,0.85,0.85,0.8,1,Septoria Tritici Blotch
+25,0.85,0.85,0.8,1,Septoria Tritici Blotch
+15,0.9,0.9,0.2684,0.1062,Gall Midge
+16,0.9,0.9,0.2684,0.1062,Gall Midge
+17,0.9,0.9,0.2684,0.1062,Gall Midge
+18,0.9,0.9,0.2684,0.1062,Gall Midge
+19,0.9,0.9,0.2684,0.1062,Gall Midge
+20,0.9,0.9,0.2684,0.1062,Gall Midge
+28,0.5,0.55,0.5,1,Rice Ragged Stunt Virus
+29,0.5,0.55,0.5,1,Rice Ragged Stunt Virus
+30,0.5,0.55,0.5,1,Rice Ragged Stunt Virus
+31,0.5,0.55,0.5,1,Rice Ragged Stunt Virus
+32,0.5,0.55,0.5,1,Rice Ragged Stunt Virus
+33,0.5,0.55,0.5,1,Rice Ragged Stunt Virus
+34,0.5,0.55,0.5,1,Rice Ragged Stunt Virus
+27,0.8,0.82,0.25,0.5,Defoliators
+28,0.8,0.82,0.25,0.5,Defoliators
+14,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+15,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+16,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+17,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+18,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+19,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+20,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+21,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+22,0.75,0.8,-0.2,0.9,"Mealybug, Phenacoccus sp"
+23,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+24,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+25,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+26,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+27,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+28,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+29,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+30,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+31,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+32,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+33,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+34,0.75,0.8,0.2,0.9,"Mealybug, Phenacoccus sp"
+24,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+25,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+26,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+27,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+28,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+29,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+30,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+31,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+32,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+33,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+34,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+35,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+36,0.9,0.9,0.1,0.2,Short Horned Grasshopper
+25,0.8,0.8,0,0.2,Narrow Brown Leaf Spot
+26,0.8,0.8,0,0.2,Narrow Brown Leaf Spot
+27,0.8,0.8,0,0.2,Narrow Brown Leaf Spot
+28,0.8,0.8,0,0.2,Narrow Brown Leaf Spot
+25,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+26,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+27,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+28,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+29,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+30,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+31,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+32,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+33,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+34,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+35,0.35,0.45,0.5,1,Black-streaked Dwarf Virus (BSDV)
+26,0.92,1,0.32,0.42,Leaf Scald
+27,0.92,1,0.32,0.42,Leaf Scald
+28,0.92,1,0.32,0.42,Leaf Scald
+30,0.7,1,0,0.1,Wilting Leaves
+31,0.7,1,0,0.1,Wilting Leaves
+32,0.7,1,0,0.1,Wilting Leaves
+33,0.7,1,0,0.1,Wilting Leaves
+34,0.7,1,0,0.1,Wilting Leaves
+35,0.7,1,0,0.1,Wilting Leaves
+27,0.8,1,0.15,0.25,Head Smut
+28,0.8,1,0.15,0.25,Head Smut
+29,0.8,1,0.15,0.25,Head Smut
+30,0.8,1,0.15,0.25,Head Smut
+31,0.8,1,0.15,0.25,Head Smut
+20,0.6,0.87,0.35,0.4,Loose Kernel Smut
+21,0.6,0.87,0.35,0.4,Loose Kernel Smut
+22,0.6,0.87,0.35,0.4,Loose Kernel Smut
+23,0.6,0.87,0.35,0.4,Loose Kernel Smut
+24,0.6,0.87,0.35,0.4,Loose Kernel Smut
+25,0.6,0.87,0.35,0.4,Loose Kernel Smut
+25,0.5,0.75,0.135,0.14,Foot Rot Disease
+26,0.5,0.75,0.135,0.14,Foot Rot Disease
+27,0.5,0.75,0.135,0.14,Foot Rot Disease
+28,0.5,0.75,0.135,0.14,Foot Rot Disease
+29,0.5,0.75,0.135,0.14,Foot Rot Disease
+30,0.5,0.75,0.135,0.14,Foot Rot Disease
+31,0.5,0.75,0.135,0.14,Foot Rot Disease
+32,0.5,0.75,0.135,0.14,Foot Rot Disease
+33,0.5,0.75,0.135,0.14,Foot Rot Disease
+34,0.5,0.75,0.135,0.14,Foot Rot Disease
+35,0.5,0.75,0.135,0.14,Foot Rot Disease
+36,0.5,0.75,0.135,0.14,Foot Rot Disease
+37,0.5,0.75,0.135,0.14,Foot Rot Disease
+20,0.65,0.85,0.27,0.29,Sheath Rot
+21,0.65,0.85,0.27,0.29,Sheath Rot
+22,0.65,0.85,0.27,0.29,Sheath Rot
+23,0.65,0.85,0.27,0.29,Sheath Rot
+24,0.65,0.85,0.27,0.29,Sheath Rot
+25,0.65,0.85,0.27,0.29,Sheath Rot
+26,0.65,0.85,0.27,0.29,Sheath Rot
+26,0.65,0.85,0.27,0.29,Sheath Rot
+27,0.65,0.85,0.27,0.29,Sheath Rot
+28,0.65,0.85,0.27,0.29,Sheath Rot
+29,0.65,0.85,0.27,0.29,Sheath Rot
+30,0.65,0.85,0.27,0.29,Sheath Rot
+20,0.87,0.87,0.75,1,Alternaria Leaf Spot
+21,0.87,0.87,0.75,1,Alternaria Leaf Spot
+22,0.87,0.87,0.75,1,Alternaria Leaf Spot
+23,0.87,0.87,0.75,1,Alternaria Leaf Spot
+24,0.87,0.87,0.75,1,Alternaria Leaf Spot
+25,0.87,0.87,0.75,1,Alternaria Leaf Spot
+25,0.87,0.87,0.75,1,Alternaria Leaf Spot
+26,0.87,0.87,0.75,1,Alternaria Leaf Spot
+27,0.87,0.87,0.75,1,Alternaria Leaf Spot
+28,0.87,0.87,0.75,1,Alternaria Leaf Spot
+29,0.87,0.87,0.75,1,Alternaria Leaf Spot
+30,0.87,0.87,0.75,1,Alternaria Leaf Spot
+42,0.1,0.45,0.6,0.8,Heat Stress
+43,0.1,0.45,0.6,0.8,Heat Stress
+44,0.1,0.45,0.6,0.8,Heat Stress
+45,0.1,0.45,0.6,0.8,Heat Stress
+30,0.622,0.937,0.5,1,Brown planthopper
+31,0.622,0.937,0.5,1,Brown planthopper
+32,0.622,0.937,0.5,1,Brown planthopper
+33,0.622,0.937,0.5,1,Brown planthopper
+34,0.622,0.937,0.5,1,Brown planthopper
+35,0.622,0.937,0.5,1,Brown planthopper
+26,0.8,0.8,0.2,0.4,Rice bugs
+27,0.8,0.8,0.2,0.4,Rice bugs
+28,0.8,0.8,0.2,0.4,Rice bugs
+25,0.6164,0.9368,0.66,1,Leaf Folder
+26,0.6164,0.9368,0.66,1,Leaf Folder
+27,0.6164,0.9368,0.66,1,Leaf Folder
+28,0.6164,0.9368,0.66,1,Leaf Folder
+29,0.6164,0.9368,0.66,1,Leaf Folder
+30,0.6164,0.9368,0.66,1,Leaf Folder
+30,0.6164,0.9368,0.66,1,Leaf Folder
+31,0.6164,0.9368,0.66,1,Leaf Folder
+32,0.6164,0.9368,0.66,1,Leaf Folder
+25,0.6164,0.9368,0.66,1,Field Cricket
+26,0.6164,0.9368,0.66,1,Field Cricket
+27,0.6164,0.9368,0.66,1,Field Cricket
+28,0.6164,0.9368,0.66,1,Field Cricket
+29,0.6164,0.9368,0.66,1,Field Cricket
+30,0.6164,0.9368,0.66,1,Field Cricket
+30,0.6164,0.9368,0.66,1,Field Cricket
+31,0.6164,0.9368,0.66,1,Field Cricket
+32,0.6164,0.9368,0.66,1,Field Cricket
+25,0.4892,0.7876,0.5,1,Caseworm
+26,0.4892,0.7876,0.5,1,Caseworm
+27,0.4892,0.7876,0.5,1,Caseworm
+28,0.4892,0.7876,0.5,1,Caseworm
+29,0.4892,0.7876,0.5,1,Caseworm
+30,0.4892,0.7876,0.5,1,Caseworm
+30,0.4892,0.7876,0.5,1,Caseworm
+25,0.95,1,0.24,1,Fusarium Head Blight
+26,0.95,1,0.24,1,Fusarium Head Blight
+27,0.95,1,0.24,1,Fusarium Head Blight
+28,0.95,1,0.24,1,Fusarium Head Blight
+40,0.85,0.9,0.75,1,Complete Sterility
+41,0.85,0.9,0.75,1,Complete Sterility
+42,0.85,0.9,0.75,1,Complete Sterility
+43,0.85,0.9,0.75,1,Complete Sterility
+44,0.85,0.9,0.75,1,Complete Sterility
+45,0.85,0.9,0.75,1,Complete Sterility
+20,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
+21,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
+22,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
+23,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
+24,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
+25,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
+26,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
+27,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
+28,0.75,0.9,0.4,0.6,Southern rice black-streaked dwarf virus
