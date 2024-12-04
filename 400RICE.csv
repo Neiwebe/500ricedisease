@@ -1,4 +1,4 @@
-Temperature (),Minimum Humidity,Maximum Humidity,Minimum Soil Moisture,Maximum Soil Moisture,Disease/Pest
+Temperature,Minimum Humidity,Maximum Humidity,Minimum Soil Moisture,Maximum Soil Moisture,Disease/Pest
 17,0.8,1,0.89,0.93,Rice Blast Disease
 18,0.8,1,0.89,0.93,Rice Blast Disease
 19,0.8,1,0.89,0.93,Rice Blast Disease
