@@ -1,0 +1,30 @@
+Plant,Temperature,Minimum Humidity,Maximum Humidity, Minimum Soil Moisture,Maximum Soil Moisture,Minimum pH Level,Maximum pH Level,Disease/Pest,Practices,Medicines/Remedy
+Rice crops,17,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,18,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,19,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,20,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,21,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,22,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,23,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,24,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,25,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,26,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,27,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,28,0.8,1,0.89,0.93,4.6,6.45,Rice Blast Disease,Incorporate or roll the rice stubble soon after harvest to promote early decomposition.,tricyclazole
+Rice crops,26,0.7,1,0.7,0.89,6.5,9,Xanthomonas Oryzae,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,27,0.7,1,0.7,0.89,6.5,9,Xanthomonas Oryzae,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,28,0.7,1,0.7,0.89,6.5,9,Xanthomonas Oryzae,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,29,0.7,1,0.7,0.89,6.5,9,Xanthomonas Oryzae,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,30,0.7,1,0.7,0.89,6.5,9,Xanthomonas Oryzae,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,30,0.5,0.7,0.25,0.42,4,6.5,Spikelet degeneration,Moderate soil-drying imposed during the young panicle development period,"1-naphthaleneacetic acid (NAA), Brassinosteroids"
+Rice crops,33,0.5,0.7,0.25,0.42,4,6.5,Spikelet degeneration,Moderate soil-drying imposed during the young panicle development period,"1-naphthaleneacetic acid (NAA), Brassinosteroids"
+Rice crops,25,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,26,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,27,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,28,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,29,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,30,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,31,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,32,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,33,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
+Rice crops,34,0.7,0.89,0.6,0.75,5,7,Bacterial leaf blight,Ensure good drainage of fields (in conventionally flooded crops) and nurseries.,streptocyclin and agrimycin
